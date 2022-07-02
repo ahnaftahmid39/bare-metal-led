@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "myConfigurationName",
+      "includePath": ["${workspaceFolder}/**"],
+      "defines": [],
+      "compilerPath": "/usr/bin/arm-none-eabi-gcc",
+      "cStandard": "c11",
+      "cppStandard": "c++14",
+      "IntelliSenseMode": "gcc-arm"
+    }
+  ],
+  "version": 4
+}
